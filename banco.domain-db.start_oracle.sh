@@ -4,4 +4,4 @@ docker run --name oracle \
         -e APP_USER=banco \
         -e APP_USER_PASSWORD=oracle \
         -e ORACLE_DATABASE=ORCL \
-        -d gvenzl/oracle-xe
+        -d gvenzl/oracle-free
