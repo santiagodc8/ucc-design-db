@@ -1,0 +1,1 @@
+{"resources":{"Scripts/cliente_testdata.sql":{"default-schema":"TIENDA","default-datasource":"oracle_thin-18be2f8661a-71188a39f339c431"},"Scripts/tienda-online.sql":{"default-datasource":"oracle_thin-18be2f8661a-71188a39f339c431","default-schema":"TIENDA"}}}
