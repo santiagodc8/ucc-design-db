@@ -1,0 +1,1 @@
+{"resources":{"Scripts/tienda-online.sql":{"default-datasource":"oracle_thin-18b456b519d-63c47b52c42a130c","default-schema":"BANCO"},"cliente_testdata.sql":{"default-datasource":"oracle_thin-18b456b519d-63c47b52c42a130c","default-schema":"BANCO"}}}
